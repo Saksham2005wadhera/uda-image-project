@@ -1,7 +1,7 @@
 # Cuda_IP_Akshat
 Converting a normal image to a polaroid style image using (cuda npp image processing)
 
-Madeby- Akshat Wadhera
+Madeby- Saksham Wadhera
 
 Desc: The code takes in 10 ppm format images named img1 to img10  and convert them into polaroids.As there is no direct conversion i have studied how normal images can be edited to look like polaroids.For this i have done three implementations on the image--->
 1.Firstly i have converted image to greyscale (pgm format), to have a classy old camera look.
