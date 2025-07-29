@@ -1,4 +1,4 @@
-# Cuda_IP_Akshat
+# Cuda_IP_saksham
 Converting a normal image to a polaroid style image using (cuda npp image processing)
 
 Madeby- Saksham Wadhera
